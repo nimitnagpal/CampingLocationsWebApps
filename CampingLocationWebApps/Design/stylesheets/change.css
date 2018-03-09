@@ -1,0 +1,28 @@
+body {
+    background: url("../Background images/1.jpg");
+    background-size: cover;
+    background-position: center;
+    transition: background 1.0s linear;
+}
+body,
+html {
+    color: white;
+}
+h1 {
+    font-weight: 900;
+    font-size: 9em;
+    text-shadow: 0 4px 3px rgba(0,0,0,0.4), 0 8px 13px rgba(0,0,0,0.1), 0 18px 23px rgba(0,0,0,0.1);
+}
+h3 {
+    text-shadow: 0 4px 3px rgba(0,0,0,0.4), 0 8px 13px rgba(0,0,0,0.1), 0 18px 23px rgba(0,0,0,0.1);
+}
+.content {
+    padding-top: 20%;
+    text-align: center;
+}
+hr {
+    width: 500px;
+    border-top: 1px solid #f8f6f62;
+    border-bottom: 1px solid rgb(0,0,0);
+    border-bottom: 1px solid rgba(0,0,0,0.4);
+}
